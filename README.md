@@ -33,3 +33,12 @@
   <img src="./icons/github.svg" alt="GitHub" height="30" />
   <img src="./icons/gitlab.svg" alt="GitLab" height="30" />
 </p>
+
+<h2></h2>
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	</picture>
+</p>
