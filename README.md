@@ -1,6 +1,6 @@
 <h2>About Me</h2>
 <p align="left">
-  wdasdwa
+  hold on I'm having dinner imma write this later
 </p>
 
 <h2>Tech Stack</h2>
@@ -12,7 +12,6 @@
   <img src="./icons/java.svg" alt="Java" height="30" />
   <img src="./icons/numpy.svg" alt="NumPy" height="30" />
 </p>
-
 <p align = "center">
   <!--Web Development Section-->
   <img src="./icons/html.svg" alt="HTML" height="30" />
@@ -23,7 +22,6 @@
   <img src="./icons/react.svg" alt="React" height="30" />
   <img src="./icons/net.svg" alt=".NET" height="30" />
 </p>
-
 <p align = "center">
   <!--Co-Development Section-->
   <img src="./icons/git.svg" alt="Git" height="30" />
@@ -31,4 +29,3 @@
   <img src="./icons/gitlab.svg" alt="GitLab" height="30" />
 </p>
 
-<h2></h2>
