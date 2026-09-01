@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/whalesunlu">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Wilson" alt="Hello! I am Wilson" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=634&text=Hello!%20I am%20Wilson" alt="Hello! I am Wilson" />
   </a>
 </p>
 
