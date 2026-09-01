@@ -1,6 +1,3 @@
-<p align="center">
-
-</p>
 <h2>About Me</h2>
 <p align="left">
   wdasdwa
@@ -35,10 +32,3 @@
 </p>
 
 <h2></h2>
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/whalesunlu/whalesunlu/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whalesunlu/whalesunlu/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/whalesunlu/whalesunlu/output-3d-contrib/day.svg" />
-	</picture>
-</p>
