@@ -7,7 +7,7 @@
 </p>
 
 <h2>Tech Stack</h2>
-<p align = "left">
+<p align = "center">
   <!--Programming Language Section-->
   <img src="./icons/python.svg" alt="Python" height="30"/>
   <img src="./icons/c++.svg" alt="C++" height="30" />
@@ -16,7 +16,7 @@
   <img src="./icons/numpy.svg" alt="NumPy" height="30" />
 </p>
 
-<p align = "left">
+<p align = "center">
   <!--Web Development Section-->
   <img src="./icons/html.svg" alt="HTML" height="30" />
   <img src="./icons/css.svg" alt="CSS" height="30" />
@@ -27,7 +27,7 @@
   <img src="./icons/net.svg" alt=".NET" height="30" />
 </p>
 
-<p align = "left">
+<p align = "center">
   <!--Co-Development Section-->
   <img src="./icons/git.svg" alt="Git" height="30" />
   <img src="./icons/github.svg" alt="GitHub" height="30" />
