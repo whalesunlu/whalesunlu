@@ -1,7 +1,15 @@
 <h2>About Me</h2>
 <p align="left">
-  hold on I'm having dinner imma write this later
+  <h3>As a programmer<h3>
+    I am currently a student at the University of Toronto studying for computer science. Planning on getting more used to databases and cybersecurity in the near future. Also intrested in integration of machine learning in linguistics and psychology. Please, don't hesitate to reach out if you share some of these goals, or just reach out anyways because why not.
+  <h3>Outside of Programming<h3>
+   - Big fan of Formula 1 and car culture<br/>
+   - Archery, sometimes makes me feel like the AI
 </p>
+
+<a href="https://github.com/whalesunlu"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d0e12?style=flat-square&logo=github&logoColor=f2f2f2" /></a>
+<a href="mailto:wilsonsonlu@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-0d0e12?style=flat-square&logo=gmail&logoColor=f2f2f2" /></a>
+<a href="https://open.spotify.com/user/31fzdzhjisatscb7g57vz2yo677q"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-0d0e12?style=flat-square&logo=spotify&logoColor=f2f2f2" /></a>
 
 <h2>Tech Stack</h2>
 <p align = "center">
