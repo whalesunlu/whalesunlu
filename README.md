@@ -10,7 +10,7 @@
 <a href="https://github.com/whalesunlu"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d0e12?style=flat-square&logo=github&logoColor=f2f2f2" /></a>
 <a href="mailto:wilsonsonlu@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-0d0e12?style=flat-square&logo=gmail&logoColor=f2f2f2" /></a>
 <a href="https://open.spotify.com/user/31fzdzhjisatscb7g57vz2yo677q"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-0d0e12?style=flat-square&logo=spotify&logoColor=f2f2f2" /></a>
-<a href="https://www.linkedin.com/in/wilson-lu-270188396/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d0e12?style=flat-square&logo=LinkedIn&logoColor=f2f2f2"></a>
+<a href="https://www.linkedin.com/in/whalesun/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d0e12?style=flat-square&logo=LinkedIn&logoColor=f2f2f2"></a>
 
 <h2>Tech Stack</h2>
 <p align = "center">
